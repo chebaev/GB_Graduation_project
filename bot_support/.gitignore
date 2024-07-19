@@ -1,0 +1,11 @@
+.backup/
+.vscode/
+env/
+.venv/
+.env
+.coverage
+__pycache__/
+*.pyc
+config.py
+
+logs
