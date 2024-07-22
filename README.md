@@ -1,1 +1,4 @@
-# GB_Graduation_project
+# Дипломный проект
+
+#### bot - Основной
+#### bot_support - Для техподдержка
